@@ -1,1 +1,7 @@
-jkk
+EditFeatureVertices is a custom module for Geocortex Essentials Viewer for HTML5.
+
+If you're publishing a featureservice from ArcGIS Server which uses some advanced symbology, the symbology displays correct in the 
+mapservice, but not in the featureservice. So if you want the advanced symbolization in a webapplication, you have to use mapservice and 
+leaves you with no editing capabilities. This module takes an url to a featureservice and adds it to the map, and starts editing. The 
+module can be started with a workflow.
+
